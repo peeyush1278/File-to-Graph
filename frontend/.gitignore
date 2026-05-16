@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.ipynb
+# Local Fine-tuning
+venv/
+kuro-cx-cpu-output/
+cx-qa-pairs.jsonl
+requirements_cpu.txt
+kuro_cpu_finetune.py
